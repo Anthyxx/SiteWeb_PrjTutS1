@@ -1,0 +1,489 @@
+
+.bodyhdjv {
+  color: black;
+  background-color: white;
+  margin: 0;
+}
+
+    /*  MENUSITE  */
+
+header {
+  background-color: #502F2F;
+  height: 150px;
+  top: 0px;
+}
+#entete {
+  margin: auto;
+  background-color: #111;
+}
+#entete h1 {
+  text-align: center;
+  margin: 0px;
+  padding: 20px 0 0 0;
+}
+#switch {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+#jc1 {
+  float: left;
+  margin-left: 10%
+}
+#jc2 {
+  float: left;
+}
+#jc3 {
+  float: left;
+}
+#jc4 {
+  float: left;
+}
+
+
+  /*  HISTOIRE DES JEUX VIDEOS */
+
+#entete {
+  margin: auto;
+  background-color: #111;
+}
+#entete h1 {
+  text-align: center;
+  margin: 0px;
+  padding: 20px 0 0 0;
+}
+#texte0 {
+  background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_316377.jpg");
+  margin: 0;
+  height: 150px;
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+}
+.shdjv {
+  margin-left: 5%;
+  background-color: lightgrey;
+}
+.bhdjv {
+  background-color: white;
+  margin : 0;
+}
+.Naissance {
+  border : solid 5px black;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  margin-left: 45%;
+  box-shadow: -10px 5px 5px #241F1F;
+  font-family: monospace;
+}
+.Naissance img {
+  border: solid 1px black;
+  width: 45%;
+}
+.Naissance p {
+  float: right;
+}
+
+.Arcade {
+  border : solid 5px #473673;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  box-shadow: 10px 5px 5px #241F1F;
+  margin-bottom: 15px;
+  font-family: monospace;
+}
+.Arcade img {
+  width: 45%;
+  border: solid 1px black;
+}
+.bannière1 {
+  background-color: #DEC62F;
+  height: 300px;
+  color: #DEC62F;
+  margin: 0;
+}
+.Console {
+  margin-top: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #282424 #5B5757 #282424 #5B5757;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  margin-left: 45%;
+  box-shadow: -10px 5px 5px #241F1F;
+  font-family: monospace;
+}
+.Console img {
+  width: 35%;
+}
+.Info {
+  border : solid 5px #621616;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  box-shadow: 10px 5px 5px #241F1F;
+  margin-bottom: 15px;
+  font-family: monospace;
+}
+.Info img {
+  width: 35%;
+}
+.bannière2 {
+  background-color: #B33445;
+  height: 300px;
+  color: #B33445;
+}
+.Portable {
+  border : solid 5px #E3C86C;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  margin-left: 45%;
+  box-shadow: -10px 5px 5px #241F1F;
+  font-family: monospace;
+}
+.Portable img {
+  width: 45%;
+  border: solid 1px black;
+}
+.Guerre {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #781616 #781616 #164778 #164778;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  box-shadow: 10px 5px 5px #241F1F;
+  margin-bottom: 15px;
+  font-family: monospace;
+}
+.Guerre img {
+  width: 45%;
+}
+.bannière3 {
+  background-color: #69B058;
+  height: 300px;
+  color: #69B058;
+}
+.Trois {
+  border : solid 5px #0E2E4D;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  box-shadow: -10px 5px 5px #241F1F;
+  margin-left: 25%;
+  margin-bottom: 15px;
+  font-family: monospace;
+}
+.Trois img {
+    width: 55%;
+}
+.bannière4 {
+  background-color: #2A8294;
+  height: 300px;
+  color:#2A8294;
+}
+.Nouveau {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #56AF85;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  margin-left: 45%;
+  box-shadow: -10px 5px 5px #241F1F;
+  font-family: monospace;
+}
+.Nouveau img {
+      width: 55%;
+}
+.Mobile {
+  border : solid 5px #5BA267;
+  margin-top: 3%;
+  background-color: white;
+  width: 55%;
+  text-align: center;
+  box-shadow: 10px 5px 5px #241F1F;
+  margin-bottom: 15px;
+  font-family: monospace;
+}
+.Mobile img {
+        width: 45%;
+}
+
+  /* DIFFERENTS GENRES DE JEUX VIDEOS */
+
+.BODYTYPES{
+  background-color: lightgrey;
+}
+
+.typet1 {
+  text-align: center;
+  font-size: 2.5em;
+  font-style: italic;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  margin-left: 685px;
+  margin-right: 685px;
+}
+
+.typet2 {
+  text-align: center;
+}
+
+.MMO {
+  width: 16%;
+  float: left;
+  margin-left: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  background-color: #D9B662;
+  border-width: 2px;
+  border-color: black;
+  border-style: dotted;
+  border-radius: 2%;
+}
+
+.MMO img{
+  width: 100%;
+}
+
+.MMO a:link{
+  color: black;
+}
+
+.MMO a:visited{
+  color: black;
+}
+
+.MOBA {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 0.5%;
+  background-color: #98BBB0;
+  color: #603C03;
+  border-width: 2px;
+  border-color: black;
+  border-style: dotted;
+  border-radius: 2%;
+}
+
+.MOBA a:link{
+  color: #603C03;
+}
+
+.MOBA a:visited{
+  color: #603C03;
+}
+
+.MOBA img{
+  width: 100%;
+}
+
+.BR {
+  width: 16%;
+  float: left;
+  color: #D0D0D0;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  background-color: #6C227A;
+  border-width: 2px;
+  border-color: black;
+  border-style: dotted;
+  border-radius: 2%;
+}
+
+.BR img{
+  width: 100%
+}
+
+.BR a:link{
+  color: #D0D0D0;
+}
+
+.BR a:visited{
+  color: #D0D0D0;
+}
+
+.SOLO {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+  margin-right: 1%;
+  color: #D0D0D0;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 0.5%;
+  background-color: #111111;
+  border-width: 2px;
+  border-color: black;
+  border-style: dotted;
+  border-radius: 2%;
+}
+
+.SOLO img{
+  width: 100%;
+}
+
+.SOLO a:link{
+  color: #D0D0D0;
+}
+
+.SOLO a:visited{
+  color: #D0D0D0;
+}
+
+.MOB {
+  width: 17%;
+  float: left;
+  margin-right: 0.5%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  color: #D0D0D0;
+  background-color: #0E3AA9;
+  border-width: 2px;
+  border-color: black;
+  border-style: dotted;
+  border-radius: 2%;
+}
+
+.MOB img{
+  width: 100%;
+}
+
+.MOB a:link{
+  color: #D0D0D0;
+}
+
+.MOB a:visited{
+  color: #D0D0D0;
+}
+
+ /* METIER */
+
+#bodymetier {
+  color: black;
+  background-color: rgba(0, 0, 50, 0.7);
+  margin: 0;
+}
+#headermetier {
+  color: lightgrey;
+  text-align: center;
+}
+#headermetier h1 {
+  border-radius: 100%;
+  border: solid 4px white;
+  margin: 3% 10% 3% 10%;
+  padding: 30px;
+}
+.articler {
+  text-align: right;
+  border: solid white 1px;
+  margin: 3% 3% 3% 40%;
+  padding: 10px;
+}
+.articlel {
+  text-align: left;
+  border: solid white 1px;
+  margin: 3% 40% 3% 3%;
+  padding: 10px;
+}
+.artiiicle {
+  background-color: rgba(40, 0, 0, 0.4);
+  color: lightgrey;
+  font-size: 1.5em;
+  font-family: monospace;
+  text-align: justify;
+}
+#ftlien {
+  text-align: center;
+  font-size: 2em;
+  margin: 40%;
+  padding: 30px;
+  text-decoration: overline;
+  color: pink;
+}
+.centerrr {
+  text-align: center;
+}
+.titremetier {
+  color: white;
+  border: solid white 1px;
+  padding: 25px;
+  margin: 3% 20% 3% 20%;
+  border-radius: 50%;
+}
+ /* ESPORT */
+
+#bodyesport {
+  color: white;
+  background-color: rgba(0, 0, 0, 1);
+  margin: 0;
+  font-family: monospace;
+}
+#stnesport img{
+  width: 100%;
+  text-align: center;
+}
+#stnesport h1 {
+  text-align: center;
+  font-size: 2em;
+  border: white solid 1px;
+  padding: 10px;
+  margin: 3% 27% 3% 27%;
+}
+#stnesport2 {
+  clear: both;
+}
+#stnesport2 h1 {
+  text-align: center;
+  font-size: 2em;
+  border: white solid 1px;
+  padding: 10px;
+  margin: 3% 27% 3% 27%;
+}
+#stnesport2 img {
+  width: 100%;
+}
+#stnesport2 table{
+  border: solid white 3px;
+  margin: 3%;
+  border-collapse: collapse;
+}
+#stnesport2 table td {
+    border: solid white 3px;
+    padding: 10px;
+  }
+.arcsct1 {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: solid white 1px;
+  margin: 5%;
+  padding: 3%;
+  width: 30%;
+  }
+
+.art1es {
+  float: left;
+}
+
+.art2es {
+  clear: both;
+}
